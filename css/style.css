@@ -72,7 +72,7 @@ background-attachment: fixed;
 .bgimage {
    height:100vh;
    width:flex;
-    background: url('https://unsplash.com/s/photos/editing-background');
+    background: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRlmO19O2qf9zrPvnBkvlU6E6R5GJTjy0aprJdye2OyIDRCHS-p4AjddfC6EfJviSaHAx0&usqp=CAU');
     background-size:cover;
     position:relative;
     padding: 0;
